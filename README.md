@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickchatman&label=Profile%20views&color=0e75b6&style=flat" alt="nickchatman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickchatman" alt="nickchatman" /></a> </p>
+
 
 - 🌱 I’m currently learning **More About Python**
 
