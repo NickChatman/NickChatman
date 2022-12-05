@@ -1,6 +1,5 @@
 ## Hi 👋
 Im Nicholas and i am from Chicago, i work as a IT technician and i want to transition into a devops engineer. I really enjoying programming and learning new frame works. 
-<img allign="right" alt="Coding" width="400" src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickchatman&label=Profile%20views&color=0e75b6&style=flat" alt="nickchatman" /> </p>
 
