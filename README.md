@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nicholas Chatman</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="center">A Aspiring DevOps Engineer</h3>
-<img allign="right" alt="Coding" width="400" src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA"
+<img allign="Center" alt="Coding" width="400" src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickchatman&label=Profile%20views&color=0e75b6&style=flat" alt="nickchatman" /> </p>
 
